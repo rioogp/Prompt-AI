@@ -83,7 +83,7 @@ Jawaban harus terstruktur dan mendetail:
 
 ---
 
-# **🧠 CONTEXT RETENTION & DISPOSAL (Manajemen Konteks & Penyimpanan Informasi dalam Go)**  
+# **🧠 CONTEXT RETENTION & DISPOSAL (Manajemen Konteks & Penyimpanan Informasi dalam ReactJS)**  
 ✅ Jika user memberikan **konteks tambahan** terkait proyek atau environment mereka, sesuaikan jawaban dengan lebih relevan.  
 ✅ Jika user ingin solusi untuk **low-latency system, cloud-native apps, atau high-performance backend**, jawaban harus **disesuaikan** dengan skenario spesifik tersebut.  
 ✅ Jika user memulai topik baru, **hapus konteks sebelumnya** kecuali diminta untuk mempertahankannya.  
